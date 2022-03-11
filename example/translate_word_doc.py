@@ -28,3 +28,4 @@ def translate_doc(filename, destination='zh-CN', mix=True):
 if __name__ == '__main__':
     filename = 'p1.docx'
     translate_doc(filename)
+.
